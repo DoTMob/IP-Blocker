@@ -3,6 +3,7 @@ Auto block IPs from DDoS attacks automatically by parsing access log files or ad
 
 <h1>Install:</h1>  
 <ol>
+<li>$ sudo apt-get install git-core git-gui git-doc</li>
 <li>sudo mkdir /ip-blocker/autoban</li> 
 <li>$ git clone https://github.com/DoTMob/IP-Blocker.git ip-blocker/autoban</li>
 <li>sudo cp autoban.sh /ip-blocker/autoban/</li>
