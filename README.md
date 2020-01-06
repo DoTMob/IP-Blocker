@@ -1,12 +1,16 @@
 # IP-Blocker
 Auto block IPs from DDoS attacks automatically by parsing access log files or add your own IPs to block or allow
 
+$ git clone https://github.com/DoTMob/IP-Blocker.git
+
+$ git clone https://github.com/DoTMob/IP-Blocker.git cd /ip-blocker/opt/autoban
 
 <h1>Install:</h1>  
 <ol>
-<li>sudo mkdir /opt/autoban</li>
-<li>sudo cp autoban.sh /opt/autoban/</li>
-<li>sudo chmod +x /opt/autoban/autoban.sh</li>
+<li>sudo mkdir /ip-blocker/autoban</li>
+<li>$ git clone https://github.com/DoTMob/IP-Blocker.git cd /ip-blocker/autoban</li>
+<li>sudo cp autoban.sh /ip-blocker/autoban/</li>
+<li>sudo chmod +x /ip-blocker/autoban/autoban.sh</li>
 <li>sudo cp autoban-initd /etc/init.d/autoban</li>
 <li>sudo /sbin/chkconfig autoban --add</li>
 <li>sudo /sbin/chkconfig autoban on</li>
