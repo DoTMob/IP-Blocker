@@ -1,5 +1,5 @@
 # IP-Blocker
-Auto block IPs from DDoS attacks automatically by parsing access log files or add your own IPs to block or allow
+Auto block IPs from DDoS attacks automatically by parsing access log files or add your own IPs to block or allow COMPLE with DoTMob IP TABLES , DEFFLATE & DoTVPN you will have the 1st LaY of a LOCK/CODE defi. I will update the repos for the lofical LOCK/CODE defis -- join DoTMob --
 
 <h1>Install:</h1>  
 <ol>
